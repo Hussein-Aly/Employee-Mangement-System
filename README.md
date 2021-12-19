@@ -15,10 +15,10 @@ How to use:
   Thanks
 
   Contributers:
-    1-Hussein Ahmed Hassan Selim Mohamed Aly 19P9614
-    2-Omar Ashraf Mabrouk 19P8102
-    3-Abdelrahman Mohamed Salah 19P9131
-    4-Zakaria Sobhy Abd-Elsalam 19P2676
-    5-Mahmoud Mohamed Sedik El-Nashar 19P3374
-    6-Mahmoud Mohamed Omar Ibrahim El-Khashab 19P5803
+    1-Hussein Ahmed Hassan Selim Mohamed Aly
+    2-Omar Ashraf Mabrouk
+    3-Abdelrahman Mohamed Salah
+    4-Zakaria Sobhy Abd-Elsalam 
+    5-Mahmoud Mohamed Sedik El-Nashar 
+    6-Mahmoud Mohamed Omar Ibrahim El-Khashab
 
